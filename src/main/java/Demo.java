@@ -10,4 +10,8 @@ public class Demo {
         //updated by X
         System.out.println("Hola senior");
     }
+
+    public void iosHello(){
+        //ios code here
+    }
 }

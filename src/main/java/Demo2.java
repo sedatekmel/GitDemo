@@ -11,4 +11,9 @@ public class Demo2
         System.out.println("Merhaba Git ben geldim.5");
 
     }
+
+    public  void androidCode()
+    {
+        //android code here 
+    }
 }
