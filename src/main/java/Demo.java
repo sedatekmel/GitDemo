@@ -7,5 +7,7 @@ public class Demo {
         System.out.println("Hello Github");
         System.out.println("Hi Github");
         System.out.println("Labas rytas github");
+        //updated by X
+        System.out.println("Hola senior");
     }
 }
